@@ -248,7 +248,7 @@ Random Seed : 42 (reproducible)
 - [ ] Real-time phishing detection browser extension
 
 ---
-
+<!--
 ## 📁 Repository Structure
 
 ```
@@ -282,7 +282,7 @@ phishing-detection-bert-tfidf/
 │
 └── README.md
 ```
-
+-->
 ---
 
 ## ▶️ How To Run
