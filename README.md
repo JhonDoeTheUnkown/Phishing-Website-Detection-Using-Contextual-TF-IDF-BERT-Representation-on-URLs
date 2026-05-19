@@ -270,6 +270,7 @@ phishing-detection-bert-tfidf/
 │
 ├── data/
 │   └── df_clean.csv
+|   └── phishing_site_urls.csv
 │
 ├── images/
 │   ├── distribusi_data.png
@@ -288,8 +289,8 @@ phishing-detection-bert-tfidf/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/phishing-detection-bert-tfidf.git
-cd phishing-detection-bert-tfidf
+git clone https://github.com/JhonDoeTheUnkown/phishing-website-detection-using-contextual-tf-idf-bert-representation-on-urls.git
+cd phishing-website-detection-using-contextual-tf-idf-bert-representation-on-urls
 ```
 
 ### 2. Install Dependencies
@@ -325,6 +326,6 @@ notebooks/phishing_detection.ipynb
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Institution: [Your University]
+- GitHub: [@JhonDoeTheUkown](https://github.com/JhonDoeTheUnkown)
+- Institution: [Universitas Dian Nuswantoro]
 - Thesis Title: *Phishing Website Detection Using Contextual TF-IDF BERT Representation on URLs*
