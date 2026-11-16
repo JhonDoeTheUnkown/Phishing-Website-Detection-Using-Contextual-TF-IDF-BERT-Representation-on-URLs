@@ -325,7 +325,7 @@ notebooks/phishing_detection.ipynb
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Muhamamd Prastyo**
 - GitHub: [@JhonDoeTheUkown](https://github.com/JhonDoeTheUnkown)
 - Institution: [Universitas Dian Nuswantoro]
 - Thesis Title: *Phishing Website Detection Using Contextual TF-IDF BERT Representation on URLs*
